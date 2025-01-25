@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+venv/
+.env
+
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore SQLite database file
+books.db
+*.sqlite3
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore cache directories
+.cache/
