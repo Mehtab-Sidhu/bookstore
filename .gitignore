@@ -16,3 +16,15 @@ logs/
 
 # Ignore cache directories
 .cache/
+
+.DS_Store
+*.pid
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+*.db
